@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|c:\\users\\lenovo\\source\\repos\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|c:\\users\\lenovo\\source\\repos\\backend\\migrations\\datamodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|solutionrelative:migrations\\datamodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|c:\\users\\lenovo\\source\\repos\\backend\\eventdatamodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|solutionrelative:eventdatamodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|c:\\users\\lenovo\\source\\repos\\backend\\migrations\\20241104130107_datamigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|solutionrelative:migrations\\20241104130107_datamigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|c:\\users\\lenovo\\source\\repos\\backend\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|c:\\users\\lenovo\\source\\repos\\backend\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|solutionrelative:data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|c:\\users\\lenovo\\source\\repos\\backend\\migrations\\20241104130107_datamigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|solutionrelative:migrations\\20241104130107_datamigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|c:\\users\\lenovo\\source\\repos\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29A2AE41-0E72-4D10-8ACF-092167E658F5}|backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eventDataModal.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backend\\eventDataModal.cs",
+              "RelativeDocumentMoniker": "eventDataModal.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backend\\eventDataModal.cs",
+              "RelativeToolTip": "eventDataModal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:00:59.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backend\\Migrations\\DataModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DataModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backend\\Migrations\\DataModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DataModelSnapshot.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:24:56.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241104130107_dataMigration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backend\\Migrations\\20241104130107_dataMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241104130107_dataMigration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backend\\Migrations\\20241104130107_dataMigration.cs",
+              "RelativeToolTip": "Migrations\\20241104130107_dataMigration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:57:30.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T15:52:40.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "eventController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backend\\Controllers\\eventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\eventController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backend\\Controllers\\eventController.cs",
+              "RelativeToolTip": "Controllers\\eventController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAApwCkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:06:46.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "data.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backend\\Data\\data.cs",
+              "RelativeDocumentMoniker": "Data\\data.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backend\\Data\\data.cs",
+              "RelativeToolTip": "Data\\data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:08:47.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241104130107_dataMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backend\\Migrations\\20241104130107_dataMigration.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241104130107_dataMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backend\\Migrations\\20241104130107_dataMigration.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241104130107_dataMigration.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:24:44.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T12:54:32.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<style>
+  .card {
+      transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+
+  .bg-light {
+      background-color: #f8f9fa !important;
+  }
+</style>
+<!------ Include the above in your HEAD tag ---------->
+<div class="carousel fade-carousel slide" data-ride="carousel" data-interval="2000" id="bs-carousel">
+    <!-- Overlay -->
+    <div class="overlay"></div>
+  
+    <!-- Indicators -->
+  
+    
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item slides active">
+        <div class="slide-1"></div>
+        <div class="hero">
+          <hgroup>
+              <h1>We are Creative</h1>        
+              <h3>Get start your next awesome Events</h3>
+          </hgroup>
+         
+        </div>
+      </div>
+      <div class="item slides">
+        <div class="slide-2"></div>
+        <div class="hero">        
+          <hgroup>
+              <h1>We are smart</h1>        
+              <h3>Get start your next awesome Event</h3>
+          </hgroup>       
+          
+        </div>
+      </div>
+      <div class="item slides">
+        <div class="slide-3"></div>
+        <div class="hero">        
+          <hgroup>
+              <h1>We are amazing</h1>        
+              <h3>Get start your next awesome Events</h3>
+          </hgroup>
+          
+        </div>
+      </div>
+    </div> 
+  </div>
+  
+  <div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-auto">
+            <button type="button" (click)="newEvent()" class="btn btn-primary btn-lg">Create New Event</button>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-4 mb-4" *ngFor="let event of event"> 
+            <div class="card border-primary shadow" style="background-color: #f9f9f9;">
+                <div class="card-header bg-primary text-white">
+                    <h6 class="card-subtitle mb-2 ">Event Name</h6>
+                    <h5 class="card-title">{{ event.name }}</h5>
+                </div>
+                <div class="card-body">
+                    <h6 class="card-subtitle mb-2 text-muted">Description</h6>
+                    <p class="card-text">{{ event.description }}</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item bg-light">Date: <strong>{{ event.date}}</strong></li>
+                    <li class="list-group-item bg-light">Location: <strong>{{ event.location }}</strong></li>
+                </ul>
+                <div class="card-body d-flex justify-content-between">
+                    <button (click)="editEvent(event)" class="btn btn-warning">Update</button>
+                    <button (click)="deleteEvent(event)" class="btn btn-danger">Delete</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
