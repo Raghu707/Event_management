@@ -19,9 +19,11 @@ For database connectivity, I utilized Entity Framework, which automatically gene
 
 To install Entity Framework, please run the following commands:
 
-**dotnet add package Microsoft.EntityFrameworkCore
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer
-dotnet add package Microsoft.EntityFrameworkCore.Tools**
+**dotnet add package Microsoft.EntityFrameworkCore**
+
+**dotnet add package Microsoft.EntityFrameworkCore.SqlServer**
+
+**dotnet add package Microsoft.EntityFrameworkCore.Tools**
 
 After installing these packages, ensure you have SQL Server installed and create a database.
 
